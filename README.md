@@ -1,4 +1,4 @@
-# bigscreen-beyond-sex-driver
+# Bigscreen Beyond Sex Drivers
 Sex drivers for the [Bigscreen Beyond](https://bigscreenvr.com)
 
 Coming soon.
